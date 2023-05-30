@@ -6,7 +6,7 @@ my_dict = [{"V": "S001"},
            {"VII": "S005"},
            {"V": "S009"},
            {"VIII": "S007"}]
-my_list = []
+my_list = list()
 # for item in range(len(my_dict)):
 #     my_list += list(my_dict[item].values())
 # print(list(set(my_list)))
